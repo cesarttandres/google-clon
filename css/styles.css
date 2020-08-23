@@ -1,0 +1,52 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.item {
+
+    margin: 10px 10px;
+
+}
+
+button.blue {
+
+    background-color: #4285f4 ;
+    border-style: none;
+    font-weight: bold;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 2px;
+    margin-right: 0px;
+
+}
+
+
+.header {
+
+    height: 60px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header nav {
+    
+    display: flex;
+    align-items: center;
+
+}
+
+.header nav .nav_links a {
+
+    text-decoration: none;
+    color: #222; 
+}
+
+.header nav .nav_apps figure img {
+
+    width: 20px;
+    
+}
